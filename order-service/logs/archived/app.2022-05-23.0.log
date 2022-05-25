@@ -1,0 +1,10 @@
+2022-05-23 16:03:58,797 INFO com.example.demo.Demo1Application [restartedMain] Starting Demo1Application using Java 14.0.2 on WINDOWS-BVQNF6J with PID 5068 (C:\workspace-batch2\demo-1\target\classes started by Administrator in C:\workspace-batch2\demo-1)
+2022-05-23 16:03:58,799 DEBUG com.example.demo.Demo1Application [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-23 16:03:58,800 INFO com.example.demo.Demo1Application [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-23 16:04:00,231 INFO com.example.demo.Demo1Application [restartedMain] Started Demo1Application in 1.779 seconds (JVM running for 2.616)
+2022-05-23 16:08:02,640 INFO com.example.demo.Demo1Application [restartedMain] Starting Demo1Application using Java 14.0.2 on WINDOWS-BVQNF6J with PID 5068 (C:\workspace-batch2\demo-1\target\classes started by Administrator in C:\workspace-batch2\demo-1)
+2022-05-23 16:08:02,640 DEBUG com.example.demo.Demo1Application [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-23 16:08:02,641 INFO com.example.demo.Demo1Application [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-05-23 16:08:02,961 INFO com.example.demo.Demo1Application [restartedMain] Started Demo1Application in 0.355 seconds (JVM running for 245.346)
+2022-05-23 16:08:10,081 INFO com.example.demo.service.impl.OrderServiceImpl [http-nio-8080-exec-1] checking for item name : MI
+2022-05-23 16:08:14,958 INFO com.example.demo.service.impl.OrderServiceImpl [http-nio-8080-exec-3] checking for item name : null
